@@ -1,0 +1,7 @@
+vpc_cidr_block      = "10.0.0.0/16"
+subnet_cdir_block   = "10.0.0.0/24"
+availability_zone   = "us-east-2a"
+env_prefix          = "dev"
+my_ip               = "35.149.67.169/32"
+instance_type       = "t2.micro"
+public_key_location = "C:/Users/jdoll/yes.pub"
